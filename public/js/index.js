@@ -1,0 +1,1 @@
+alert("Yagui ci page bimala wo");
